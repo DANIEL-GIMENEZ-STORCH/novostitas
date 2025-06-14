@@ -31,6 +31,12 @@ body{
     flex-direction: column;
 }
 
+.container-img p {
+
+    font-size: 14px;
+    margin-top: 5px;
+}
+
  .img{
 
     background-image: url('./imagem-de-fundo-yeaxrij2aepc1xio.jpg');
@@ -38,4 +44,5 @@ body{
     width: 120px;
     background-size: cover;
     border-radius: 50%;
+    margin-bottom: 10px;
  }
