@@ -40,5 +40,5 @@ a{
     font-weight: 600;
     margin-top: 400px;
     justify-content: center;
-    border-radius: 20%;
+    border-style: inset;
 }
