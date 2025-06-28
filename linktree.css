@@ -8,13 +8,9 @@
     font-family: "Roboto", sans-serif;
  }
 
-:root{
- 
-}
-
 body{
 
-    display: flex;
+    
     background-color: blue;
     height: 100vh;
     display: flex;
@@ -25,4 +21,14 @@ img{
 
     height: 300px;
     width: 300px;
+}
+
+a{
+
+    background-color: chartreuse;
+    height: 100px;
+    color: crimson;
+    margin-top: 100px;
+    justify-content: center;
+    border-radius: 20%;
 }
