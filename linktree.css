@@ -13,22 +13,32 @@ body{
     
     background-color: blue;
     height: 100vh;
-    display: flex;
+    display: inline-flexbox;
     justify-content: center;
 } 
 
 img{
 
-    height: 300px;
-    width: 300px;
+    height: 500px;
+    width: 500px;
+    border-style: groove;
+    
+}
+
+h1{
+
+    color: crimson;
+    font-style: oblique;
+
 }
 
 a{
-
+    
     background-color: chartreuse;
     height: 100px;
     color: crimson;
-    margin-top: 100px;
+    font-weight: 600;
+    margin-top: 400px;
     justify-content: center;
     border-radius: 20%;
 }
